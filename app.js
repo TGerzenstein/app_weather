@@ -32,7 +32,6 @@ titleElement3.textContent = 'Climate Change';
 const element = document.getElementById('example');
 element.innerHTML = '<strong>Weather conditions this week</strong>';
 element.style.padding = '5rem';
-element.style.backgroundColor = '#EEEEEE';
 element.style.color = '#212121';
 console.log(element);
 
