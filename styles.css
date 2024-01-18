@@ -1,0 +1,39 @@
+* {
+    padding: 0rem;
+    margin: 0rem;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+  list-style-type: none;
+}
+
+main {
+    background-color: #ffffff;
+    color: #000000;
+    padding: 0rem 4rem;
+}
+
+h1 {
+    color: #000D83;
+    padding: 3rem 0rem;
+    font-size: 3rem;
+}
+
+.dateStyle {
+    padding: 1rem 0rem;
+    font-weight: 700;
+}
+
+.container-cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #EEEEEE;
+    padding: 0.50rem;
+    margin: 1rem 0rem;
+}
+
